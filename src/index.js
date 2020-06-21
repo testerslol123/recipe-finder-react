@@ -3,6 +3,13 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
+import 'bootstrap/dist/css/bootstrap.css';
+// Put any other imports below so that CSS from your
+// components takes precedence over default styles
+import './custom.scss';
+
+//ce2616538c4e4901b165ce535bd46c15
+//spoonacular.com/
 
 ReactDOM.render(
   <React.StrictMode>
