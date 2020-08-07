@@ -7,7 +7,7 @@ const Nav = () => {
     return (
         <nav class="navbar navbar-expand-lg navbar-light">
         <NavLink to="/" className="navbar-brand">
-            Recipe Site    
+            Danny Recipe Site    
         </NavLink>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
